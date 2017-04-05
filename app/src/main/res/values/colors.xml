@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#000000</color>
+    <color name="yellow">#fff000</color>
+    <color name="lv">#00ffff</color>
+    <color name="background">#fefefe</color>
+    <color name="background_qianhui">#f8f8f8</color>
+    <color name="line">#e1e1e1</color>
+    <color name="black_90">#90000000</color>
+    <color name="background_qianhui2">#20000000</color>
+    <color name="blue">#800000ff</color>
+    <color name="white">#ffffff</color>
+    <color name="white_90">#90ffffff</color>
+    <color name="black_60">#60000000</color>
+    <color name="red">#90ff0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="text_content">#aaaaaa</color>
+</resources>
